@@ -1,0 +1,38 @@
+C:\Users\Youcode\source\repos\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\XamarinFApi.csproj.AssemblyReference.cache
+C:\Users\Youcode\source\repos\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Youcode\source\repos\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Youcode\source\repos\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\Youcode\source\repos\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\XamarinFApi.AssemblyInfoInputs.cache
+C:\Users\Youcode\source\repos\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\XamarinFApi.AssemblyInfo.cs
+C:\Users\Youcode\source\repos\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\XamarinFApi.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\source\repos\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\XamarinFApi.dll
+C:\Users\Youcode\source\repos\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\ref\XamarinFApi.dll
+C:\Users\Youcode\source\repos\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\XamarinFApi.pdb
+C:\Users\Youcode\source\repos\XamarinFApi\XamarinFApi\XamarinFApi\bin\Debug\netstandard2.0\XamarinFApi.deps.json
+C:\Users\Youcode\source\repos\XamarinFApi\XamarinFApi\XamarinFApi\bin\Debug\netstandard2.0\XamarinFApi.dll
+C:\Users\Youcode\source\repos\XamarinFApi\XamarinFApi\XamarinFApi\bin\Debug\netstandard2.0\ref\XamarinFApi.dll
+C:\Users\Youcode\source\repos\XamarinFApi\XamarinFApi\XamarinFApi\bin\Debug\netstandard2.0\XamarinFApi.pdb
+C:\Users\Youcode\source\repos\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Youcode\source\repos\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\Views\Products.xaml.g.cs
+C:\Users\Youcode\Desktop\brief APi xamarin\XamarinFApi\XamarinFApi\XamarinFApi\bin\Debug\netstandard2.0\XamarinFApi.deps.json
+C:\Users\Youcode\Desktop\brief APi xamarin\XamarinFApi\XamarinFApi\XamarinFApi\bin\Debug\netstandard2.0\XamarinFApi.dll
+C:\Users\Youcode\Desktop\brief APi xamarin\XamarinFApi\XamarinFApi\XamarinFApi\bin\Debug\netstandard2.0\ref\XamarinFApi.dll
+C:\Users\Youcode\Desktop\brief APi xamarin\XamarinFApi\XamarinFApi\XamarinFApi\bin\Debug\netstandard2.0\XamarinFApi.pdb
+C:\Users\Youcode\Desktop\brief APi xamarin\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\XamarinFApi.csproj.AssemblyReference.cache
+C:\Users\Youcode\Desktop\brief APi xamarin\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Youcode\Desktop\brief APi xamarin\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Youcode\Desktop\brief APi xamarin\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\Youcode\Desktop\brief APi xamarin\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\Views\ProductDetails.xaml.g.cs
+C:\Users\Youcode\Desktop\brief APi xamarin\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\Views\Products.xaml.g.cs
+C:\Users\Youcode\Desktop\brief APi xamarin\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\XamarinFApi.AssemblyInfoInputs.cache
+C:\Users\Youcode\Desktop\brief APi xamarin\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\XamarinFApi.AssemblyInfo.cs
+C:\Users\Youcode\Desktop\brief APi xamarin\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\XamarinFApi.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\brief APi xamarin\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Youcode\Desktop\brief APi xamarin\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\XamarinFApi.dll
+C:\Users\Youcode\Desktop\brief APi xamarin\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\ref\XamarinFApi.dll
+C:\Users\Youcode\Desktop\brief APi xamarin\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\XamarinFApi.pdb
+C:\Users\Youcode\Desktop\brief APi xamarin\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\XamarinFApi\App.xaml.g.cs
+C:\Users\Youcode\Desktop\brief APi xamarin\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\XamarinFApi\AppShell.xaml.g.cs
+C:\Users\Youcode\Desktop\brief APi xamarin\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\XamarinFApi\Views\AddProduct.xaml.g.cs
+C:\Users\Youcode\Desktop\brief APi xamarin\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\XamarinFApi\Views\ProductDetails.xaml.g.cs
+C:\Users\Youcode\Desktop\brief APi xamarin\XamarinFApi\XamarinFApi\XamarinFApi\obj\Debug\netstandard2.0\XamarinFApi\Views\Products.xaml.g.cs
